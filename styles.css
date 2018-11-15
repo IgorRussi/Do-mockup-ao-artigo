@@ -1,0 +1,61 @@
+body {
+  font: normal 1rem "Open Sans", arial, sans-serif;
+  color: #000;
+  background: #fff;
+}
+
+
+.card {
+  width: 300px;
+  padding: 10px;
+  box-shadow: 0px 5px 15px 0px rgba(153,153,153,0.5);
+  border-radius: 10px;
+}
+
+.cardTitle {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.cardPicture {
+  padding: 4px 0;
+}
+
+.resume{
+  margin: 0;
+  padding: 4px 0;
+  border: 1px solid #ccc;
+}
+.status {
+  margin-left: 31px;
+}
+
+
+.cardDescription {
+  margin-top: 3px;
+  /* margin: 0; */
+  padding: 9px;
+  font-size: 0.770rem;
+  border: 1px solid #ccc;
+}
+
+.topics{
+  padding: 0;
+  list-style: none;
+}
+
+
+.cardDescription .itens {
+  font-style: italic;
+}
+
+
+.cardDescription .label {
+  font-weight: bold;
+  font-style: normal;
+}
+
+.lion {
+  width: 300px;
+  height: 360px;
+  }/* add your CSS here */
