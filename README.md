@@ -6,7 +6,8 @@ Front-End Web Developer Nanodegree project.
 
 ![demo](https://github.com/IgorRussi/Udacity---Project-CardAnimals/blob/master/DemoView.JPG)
 
-### Prerequisites
+## Prerequisites
+
 
 ## Built With
 
